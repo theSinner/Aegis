@@ -39,6 +39,7 @@
         <item>Czech</item>
         <item>Dutch</item>
         <item>English</item>
+        <item>Farsi (فارسی)</item>
         <item>Finnish</item>
         <item>French</item>
         <item>German</item>
@@ -52,6 +53,7 @@
         <item>Russian</item>
         <item>Spanish</item>
         <item>Turkish</item>
+        <item>Turkish</item>
     </string-array>
 
     <string-array name="pref_lang_values" translatable="false">
@@ -61,6 +63,7 @@
         <item>cs</item>
         <item>nl</item>
         <item>en</item>
+        <item>fa_IR</item>
         <item>fi</item>
         <item>fr</item>
         <item>de</item>
